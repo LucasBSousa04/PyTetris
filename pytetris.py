@@ -137,8 +137,6 @@ class Pecas(objeto):
         self.formato = formato
         self.cor = cores_pecas[formatos.index(formato)]
         self.rotation = 0
-def
-
 
 pygame.display.set_mode((largura_tela, altura_tela))
 pygame.display.set_caption('Pytetris')
